@@ -9,7 +9,7 @@ You can read the full article **[here](https://blog.izem.dev/a-vue-3-users-guide
 1. Clone the project
 
 ```
-git clone https://github.com/OMARIZEM/vue-multi-layouts.git
+git clone https://github.com/izemomar/vue-multi-layouts
 ```
 
 2. Install packages
